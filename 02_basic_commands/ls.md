@@ -14,7 +14,7 @@ The `ls` command is used to list files and directories.
 ```bash
 ls
 
-##Common Options
+###Common Options
 ls -l    # long listing (permissions, size, date)
 ls -a    # show hidden files
 ls -lh   # human-readable file sizes
